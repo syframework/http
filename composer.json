@@ -1,0 +1,20 @@
+{
+	"name": "sy/http",
+	"description": "HTTP utilities",
+	"type": "library",
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Syone",
+			"email": "syone7@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Sy\\": "src/"
+		}
+	}
+}
